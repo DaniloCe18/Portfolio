@@ -1,6 +1,6 @@
 # Portfolio de Danilo José Cerasa
 
-Portfolio personal de Danilo José Cerasa, Analista en Sistemas y estudiante de Ingeniería en Sistemas. Presenta su perfil, habilidades y proyectos, y está pensado para mostrarlo en una búsqueda laboral.
+Portfolio personal de Danilo José Cerasa, Analista en Sistemas y estudiante de Ingeniería en Sistemas. Presento mi perfil, habilidades y proyectos, y estoy pensando para mostrarlo en una búsqueda laboral.
 
 **Sitio publicado:** https://daniloce18.github.io/portfolio/
 
